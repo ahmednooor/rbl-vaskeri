@@ -137,7 +137,7 @@ function App() {
         <div className="mx-auto flex max-w-[1400px] flex-col gap-4 px-4 py-4 sm:px-6 lg:flex-row lg:items-end lg:justify-between">
           <div>
             <p className="text-[11px] font-semibold uppercase tracking-[0.22em] text-moss">
-              Rødtvet Borettslag · Vaskeri
+              Rødtvedt Borettslag Vaskeri
             </p>
             <h1 className="mt-1 text-2xl font-semibold tracking-tight text-ink sm:text-3xl">
               Bestilling av vasketid
